@@ -16,3 +16,7 @@ pip install -r packagesToInstall.txt
 ```
 python githubAPIForMetricVisualisation.py
 ```
+# Media
+### user/CSAjchan
+<img src="https://github.com/CSAjchan/SoftwareEngineeringMetricVisualisation/blob/ffb866a438cf49f3417edeb888ea9e1e9ab1c94f/screenshots%20&%20html%20files/languages_pie_chart_aj.PNG?raw=true" alt="pie" width="300"/> <img src="https://github.com/CSAjchan/SoftwareEngineeringMetricVisualisation/blob/ffb866a438cf49f3417edeb888ea9e1e9ab1c94f/screenshots%20&%20html%20files/forks_line_chart_aj.PNG?raw=true" alt="line" width="300"/> <img src="https://github.com/CSAjchan/SoftwareEngineeringMetricVisualisation/blob/ffb866a438cf49f3417edeb888ea9e1e9ab1c94f/screenshots%20&%20html%20files/following_gauge_chart_aj.PNG?raw=true" alt="gauge" width="300"/><img src="https://github.com/CSAjchan/SoftwareEngineeringMetricVisualisation/blob/ffb866a438cf49f3417edeb888ea9e1e9ab1c94f/screenshots%20&%20html%20files/commits_by_repos_bar_chart_aj.PNG?raw=true" alt="bar" width="300"/>
+
